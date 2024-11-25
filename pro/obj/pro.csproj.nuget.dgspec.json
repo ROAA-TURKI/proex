@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\roaat\\pro\\pro\\pro.csproj": {}
+    "c:\\Users\\roaat\\OneDrive\\سطح المكتب\\proex\\pro\\pro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\roaat\\pro\\pro\\pro.csproj": {
+    "c:\\Users\\roaat\\OneDrive\\سطح المكتب\\proex\\pro\\pro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\roaat\\pro\\pro\\pro.csproj",
+        "projectUniqueName": "c:\\Users\\roaat\\OneDrive\\سطح المكتب\\proex\\pro\\pro.csproj",
         "projectName": "pro",
-        "projectPath": "C:\\Users\\roaat\\pro\\pro\\pro.csproj",
+        "projectPath": "c:\\Users\\roaat\\OneDrive\\سطح المكتب\\proex\\pro\\pro.csproj",
         "packagesPath": "C:\\Users\\roaat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\roaat\\pro\\pro\\obj\\",
+        "outputPath": "c:\\Users\\roaat\\OneDrive\\سطح المكتب\\proex\\pro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\roaat\\AppData\\Roaming\\NuGet\\NuGet.Config",

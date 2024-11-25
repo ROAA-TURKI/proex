@@ -1,0 +1,15 @@
+c:\Users\roaat\OneDrive\سطح المكتب\proex\pro\bin\Debug\net8.0\pro.exe
+c:\Users\roaat\OneDrive\سطح المكتب\proex\pro\bin\Debug\net8.0\pro.deps.json
+c:\Users\roaat\OneDrive\سطح المكتب\proex\pro\bin\Debug\net8.0\pro.runtimeconfig.json
+c:\Users\roaat\OneDrive\سطح المكتب\proex\pro\bin\Debug\net8.0\pro.dll
+c:\Users\roaat\OneDrive\سطح المكتب\proex\pro\bin\Debug\net8.0\pro.pdb
+c:\Users\roaat\OneDrive\سطح المكتب\proex\pro\obj\Debug\net8.0\pro.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\roaat\OneDrive\سطح المكتب\proex\pro\obj\Debug\net8.0\pro.AssemblyInfoInputs.cache
+c:\Users\roaat\OneDrive\سطح المكتب\proex\pro\obj\Debug\net8.0\pro.AssemblyInfo.cs
+c:\Users\roaat\OneDrive\سطح المكتب\proex\pro\obj\Debug\net8.0\pro.csproj.CoreCompileInputs.cache
+c:\Users\roaat\OneDrive\سطح المكتب\proex\pro\obj\Debug\net8.0\pro.sourcelink.json
+c:\Users\roaat\OneDrive\سطح المكتب\proex\pro\obj\Debug\net8.0\pro.dll
+c:\Users\roaat\OneDrive\سطح المكتب\proex\pro\obj\Debug\net8.0\refint\pro.dll
+c:\Users\roaat\OneDrive\سطح المكتب\proex\pro\obj\Debug\net8.0\pro.pdb
+c:\Users\roaat\OneDrive\سطح المكتب\proex\pro\obj\Debug\net8.0\pro.genruntimeconfig.cache
+c:\Users\roaat\OneDrive\سطح المكتب\proex\pro\obj\Debug\net8.0\ref\pro.dll

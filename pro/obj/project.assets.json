@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\roaat\\pro\\pro\\pro.csproj",
+      "projectUniqueName": "C:\\Users\\roaat\\OneDrive\\سطح المكتب\\proex\\pro\\pro.csproj",
       "projectName": "pro",
-      "projectPath": "C:\\Users\\roaat\\pro\\pro\\pro.csproj",
+      "projectPath": "C:\\Users\\roaat\\OneDrive\\سطح المكتب\\proex\\pro\\pro.csproj",
       "packagesPath": "C:\\Users\\roaat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\roaat\\pro\\pro\\obj\\",
+      "outputPath": "C:\\Users\\roaat\\OneDrive\\سطح المكتب\\proex\\pro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\roaat\\AppData\\Roaming\\NuGet\\NuGet.Config",
